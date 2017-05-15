@@ -1,0 +1,22 @@
+* {
+	background-color: white;
+	font: impact;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}
+
+h1 {
+	text-align: center;
+	font: Impact;
+}
+
+button: first-child {
+	text-align: left;
+}
+
+button: second-child {
+	align: right;
+}
